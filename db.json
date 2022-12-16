@@ -5,6 +5,7 @@
         "nome": "Dracula",
         "autor": "Bram Stoker",
         "preco": 49.90,
+        "url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6Tv6k0sk8oyxiJaRNoFaY38fhVVbkQ00aA&usqp=CAU",
         "categoria_id": 1
       },
       {
@@ -12,6 +13,7 @@
         "nome": "Harry Potter",
         "autor": "J. K. Rowling",
         "preco": 290.90,
+        "url":"https://static.wikia.nocookie.net/harrypotter/images/5/5d/Capa_Harry_Potter_e_a_Pedra_Filosofal_%28livro%29.jpg/revision/latest?cb=20130101150732&path-prefix=pt-br",
         "categoria_id": 1
       },
       {
@@ -19,6 +21,7 @@
         "nome": "Harry Potter 2",
         "autor": "J. K. Rowling",
         "preco": 400.50,
+        "url":"https://m.media-amazon.com/images/I/71NsVQ5MlwL.jpg",
         "categoria_id": 1
       },
       {
@@ -26,6 +29,7 @@
         "nome": "A Garota do Lago",
         "autor": "Charlie Donlea",
         "preco": 70.20,
+        "url":"https://m.media-amazon.com/images/I/81LRk6+p1HL.jpg",
         "categoria_id": 1
       },
       {
@@ -33,6 +37,7 @@
         "nome": "A Cabana",
         "autor": "William P. Young",
         "preco": 70.50,
+        "url":"https://m.media-amazon.com/images/I/91rc6PHsvIL.jpg",
         "categoria_id": 2
       }
  
